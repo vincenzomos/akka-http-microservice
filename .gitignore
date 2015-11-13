@@ -11,10 +11,15 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
-
+project/.sbtserver
+project/.sbtserver.lock
+project/idea.sbt
+project/sbt-ui.sbt
+projectFilesBackup/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
 
 # IntelliJ specific
 .idea
+.idea_modules/

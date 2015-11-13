@@ -23,3 +23,6 @@ libraryDependencies ++= {
 }
 
 Revolver.settings
+
+
+fork in run := true

@@ -8,7 +8,7 @@ This project demonstrates the [Akka HTTP](http://doc.akka.io/docs/akka-stream-an
 * handling file-based configuration,
 * logging,
 * routing,
-* deconstructing requests,
+* deconstructing requests TESTSSSS,
 * unmarshalling JSON entities to Scala's case classes,
 * marshaling Scala's case classes to JSON responses,
 * error handling,
